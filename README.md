@@ -6,5 +6,5 @@
 🎨 **Passionate about UI/UX design** — I enjoy creating beautiful, intuitive, and user-friendly interfaces.  
 🤝 **Team player** who thrives in collaborative environments and loves sharing knowledge.  
 🌱 **Always learning** — exploring new tools, frameworks, and design trends to expand my skills.  
-✨ **Goal**: Build impactful software that blends functionality with elegance.  
+✨ **Goal**: Build impactful software that blends functionality with elegance. 
 
