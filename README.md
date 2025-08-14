@@ -6,7 +6,7 @@
 
 🎮 **Video game enthusiast** — I enjoy building games that combine creativity, interactivity, and fun. 
 
-🚀 **Output-based learner** — I learn best by building, testing, and iterating from concept to completion.  
+🚀 **Hands-on learner** — I learn best by building, testing, and iterating from concept to completion.  
 
 🎨 **Passionate about UI/UX design** — I enjoy creating beautiful, intuitive, and user-friendly interfaces.  
 
